@@ -18,3 +18,9 @@
 *.log
 *.xmt
 *.csv
+
+#For xClang
+*.d
+*.s.tmp
+*.xo
+*.xd
